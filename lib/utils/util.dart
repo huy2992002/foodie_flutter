@@ -21,4 +21,7 @@ class Util {
   } static kimkim() {
     print('aaa');
   }
+static kimheeloim() {
+    print('aaa');
+  }
 }
