@@ -16,4 +16,7 @@ class Util {
   static hoang() {
     print('aaa');
   }
+  static wwww() {
+    print('aaa');
+  }
 }
