@@ -18,5 +18,7 @@ class Util {
   }
   static wwww() {
     print('aaa');
+  } static kimkim() {
+    print('aaa');
   }
 }
