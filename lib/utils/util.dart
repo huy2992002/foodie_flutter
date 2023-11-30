@@ -12,4 +12,8 @@ class Util {
     }
     return st2;
   }
+
+  static hoang() {
+    print('aaa');
+  }
 }
